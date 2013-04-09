@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">OM SAI SRI SAI JAI JAI SAI</string>
+    <string name="app_name">SAI HARATIS</string>
+	<string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
+		
